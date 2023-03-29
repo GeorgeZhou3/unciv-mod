@@ -4,6 +4,7 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "The Master Race",
 		"replaces": "XCOM Squad",
+		"requiredTech": "Nanotechnology",
 		"movement": 2,
 		"strength": 100,
 		"cost": 300,
