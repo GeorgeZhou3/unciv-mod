@@ -20,7 +20,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "Steam Sales",
 		"uniqueText": "The PC Master Race experiences the glory of Steam Sales amazing offers of 75% OFF of [Unhappiness]!",
-		"uniques": ["[-75]% Unhappiness from [Population] [in all cities]","[-75]% Unhappiness from [Cities] [in all cities]"],
+		"uniques": ["[-75]% Unhappiness from [Population] [in all cities]","[+2.25 Happiness] [in all cities]"],
 		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
