@@ -1,0 +1,34 @@
+[
+	{
+		"name": "The Ascended",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Master Race",
+		"replaces": "XCOM Squad",
+		"movement": 2,
+		"strength": 100,
+		"cost": 300,
+		"uniques": ["May Paradrop up to [40] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+	},
+  {
+		"name": "XCOM Squad",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 100,
+		"cost": 400,
+		"requiredTech": "Nanotechnology",
+		"uniques": ["May Paradrop up to [40] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+	},
+  {
+		"name": "Paratrooper",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 65,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"uniques": ["May Paradrop up to [5] tiles from inside friendly territory", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+		"upgradesTo": "XCOM Squad"
+	}
+]
