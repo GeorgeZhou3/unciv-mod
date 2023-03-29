@@ -1,12 +1,12 @@
 [
    	{
-		"name": "Master Shrine",
+		"name": "Gaming Shrine",
 		"replaces": "Shrine",
-		"uniqueTo": "",
-		"faith": 2,
+		"uniqueTo": "The Master Race",
+		"faith": 1,
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["[+10 Food, +10 Production, +10 Gold, +10 Science, +10 Faith, +10 Culture] from [Land] tiles [in this city]"]
+		"uniques": ["[+10 Food, +10 Production, +20 Gold, +50 Science, +50 Faith, +50 Culture] from [All] tiles [in this city]"]
 	  }
 ]
