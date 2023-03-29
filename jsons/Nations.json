@@ -1,0 +1,30 @@
+[
+	{
+		"name": "The Master Race",
+		"leaderName": "Gabe Newell",
+		"adjective": ["The Master Race"],
+		
+		"startIntroPart1": "Blessings upon you, Gabe Newell, Lord of the PC Master Race, creator of steam, and herald of the coming doom of consoles! You founded the most honorable gaming company yet seen, oversaw the development of some of gaming's most popular titles, and showed the corporate world that treating your users as humans rather than talking wallets will earn you loyalty the like of which has never been seen. You became a beloved icon to games everywhere, despite enduring torment about disliking the number 3.",
+		"startIntroPart2": "Esteemed Gabe, your people call you to drive forward the cause of the PC Gaming Master Race. Your sales bring light to a dark world filled with greed and bad deals. Will you end the tyranny of terrible producers? Will you build a civilization that can stand the test of time?",
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "How could we fall to the likes of you?!",
+		"introduction": "We hope for a fair and just relationship with you, who are renowned for military bravery.",
+		
+		"neutralHello": "I wish you peace.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"uniqueName": "Steam Sales",
+		"uniqueText": "The PC Master Race experiences the glory of Steam Sales amazing offers of 75% OFF of [Unhappiness]!",
+		"uniques": ["[-75]% Unhappiness from [Population] [in all cities]","[-75]% Unhappiness from [Cities] [in all cities]"],
+		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	}
+]
